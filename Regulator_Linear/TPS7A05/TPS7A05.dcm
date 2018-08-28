@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS7A05
+D TI TPS7A05 linear regulator
+F http://www.ti.com/lit/ds/symlink/tps7a05.pdf
+$ENDCMP
+#
+#End Doc Library
