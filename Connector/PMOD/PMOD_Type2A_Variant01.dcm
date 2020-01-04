@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMOD_Type2A_Variant01
+D PMOD Type 2A connector variant #01 with 2 interrupt pins
+$ENDCMP
+#
+#End Doc Library

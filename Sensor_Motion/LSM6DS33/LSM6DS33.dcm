@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LSM6DS33
+D ST LSM6DS33 IMU
+$ENDCMP
+#
+#End Doc Library
