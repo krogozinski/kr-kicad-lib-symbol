@@ -15,8 +15,8 @@ T 900 -290 -530 39 0 1 1 "Bottom Row" Normal 0 C C
 T 0 -260 650 39 0 1 1 "Expanded SPI" Normal 0 L C
 T 900 -290 130 39 0 1 1 "Top Row" Normal 0 C C
 T 0 -260 720 39 0 1 1 "Type 2A Variant 01" Normal 0 L C
-S -250 -100 0 -700 1 1 0 N
-S 0 600 -250 0 1 1 0 N
+S -250 -100 0 -700 1 1 0 f
+S 0 600 -250 0 1 1 0 f
 X SS 1 150 550 150 L 50 50 1 1 O
 X NC 10 150 -450 150 L 50 50 1 1 N X
 X GND 11 150 -550 150 L 50 50 1 1 w X
